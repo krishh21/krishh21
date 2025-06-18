@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krish Yadav</h1>
-<h3 align="center">A passionate Full Stack Developer and Tech Enthusiast from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Krishna Yadav</h1>
+<h3 align="center">A passionate Full Stack Developer and Tech Enthusiast from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishh21&label=Profile%20views&color=0e75b6&style=flat" alt="krishh21" />
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **MERN Stack, Firebase, REST APIs, and DSA**
 - 🔭 I’m working on exciting projects like:
   - 🚀 A **Quiz App** with Timer, Leaderboard, and Analytics  
-  - 📸 A **Dynamic Image Gallery / Carousel** with auto-play and light/dark mode  
+  - 📸 A **AI Powered caption genrator** wand dark mode and Ai captioning Features base on streamlit python  
   - 🌦️ A **Weather Mobile App** with live temperature, humidity, and location support  
   - 🧑‍💼 A full-featured **MERN Stack Employee Management System (EMS)**
 
@@ -77,20 +77,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishh21&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=krishh21&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📬 Connect With Me
 
-- 📧 **Email**: krishyadav@example.com  
+- 📧 **Email**: krishna1052004@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishna-yadav-27aa8026a/)  
 - 🐦 [Twitter](https://x.com/itskrish24)  
 - 🌐 [Portfolio](https://my-portfolio-krishh21s-projects.vercel.app/)  
 
 <p align="left">
-  <a href="https://twitter.com/yourhandle" target="blank">
+  <a href="https://twitter.com/itskrish24" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
 </p>
