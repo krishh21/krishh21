@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/131685948?v=4" alt="Krish Yadav" width="150" style="border-radius: 50%;" />
+  <img src="https://drive.google.com/file/d/1NhEEw7CSDJOvoWw1JY_NaXZGmANk-kwu/view?usp=drivesdk" alt="Krish Yadav" width="150" style="border-radius: 50%;" />
 </p>
 <h1 align="center">Hi 👋, I'm Krishna Yadav</h1>
 <h3 align="center">A passionate Full Stack Developer and Tech Enthusiast from India</h3>
