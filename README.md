@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\M S I\Downloads\my img.jpg" alt="Krish Yadav" width="150" style="border-radius: 50%;" />
+  <img src="https://onedrive.live.com/?v=photos&id=root&cid=812236D0EB657167&qt=allmyphotos&photosData=%2Fphoto%2F812236D0EB657167%21sb7a1e27197114f629ff2401064d1cb36%3Fview%3Dall" alt="Krish Yadav" width="150" style="border-radius: 50%;" />
 </p>
 <h1 align="center">Hi 👋, I'm Krishna Yadav</h1>
 <h3 align="center">A passionate Full Stack Developer and Tech Enthusiast from India</h3>
