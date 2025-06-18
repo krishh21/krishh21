@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/krishh21.png" alt="Krish Yadav" width="150" />
+  <img src="https://github.com/krishh21.png" alt="Krish Yadav"  />
 </p>
 <h1 align="center">Hi 👋, I'm Krishna Yadav</h1>
 <h3 align="center">A passionate Full Stack Developer and Tech Enthusiast from India</h3>
