@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on open-source projects, MERN stack apps, or student hackathons  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/krishna-yadav-27aa8026a ) | Email: krishna1052004@gmail.com  
 😄 Pronouns: He/Him  
-⚡ Fun fact: I built a weather app using React Native & deployed it with a custom dark theme and APK build! Also built the Mern stack EMS for College  Project with unique features
+⚡ Fun fact: I built a weather app using React Native & deployed it with a custom dark theme and APK build! Also built the Mern stack EMS for College  Project with unique features.
 
 
 <!---
