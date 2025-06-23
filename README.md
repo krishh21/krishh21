@@ -39,7 +39,7 @@
 ### 🌦️ Weather Mobile App
 > A mobile-first weather app that displays real-time data using city or geolocation.
 
-**Tech Used**: HTML, CSS, JavaScript, OpenWeatherMap API  
+**Tech Used**: React Native , Expo , OpenWeatherMap API  
 **Features**:
 - Live temperature and humidity
 - Location-based weather
