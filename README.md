@@ -9,53 +9,54 @@
 
 ## About Me
 
-- Currently learning **MERN Stack, Firebase, REST APIs, and DSA**  
-- I enjoy building projects that combine functionality with clean UI/UX  
-- Recent work includes:
-  - A **Quiz App** with timer, leaderboard, and analytics  
-  - An **AI-powered Image Caption Generator** using Streamlit  
-  - A **Weather Mobile App** with live temperature, humidity, and geolocation  
-  - A full-featured **Employee Management System (EMS)** with authentication and role-based access  
+I am a passionate developer who enjoys building applications that solve real-world problems.  
+Currently, I am exploring the **MERN stack**, working with **Firebase**, and sharpening my **DSA** skills.  
+
+Some of my recent projects include:  
+- A **Quiz App** with timer, leaderboard, and analytics  
+- An **AI-powered Image Caption Generator** using Streamlit  
+- A **Weather App** with geolocation and real-time updates  
+- A **MERN Stack Employee Management System (EMS)** with role-based access  
 
 ---
 
 ## Featured Projects
 
 ### Employee Management System (EMS)
-A complete MERN application for managing employees, teams, and workflows.  
+A complete MERN application to manage employees, teams, and workflows.  
 
 **Tech Used**: React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS  
 
-**Key Features**:
+**Highlights**:
 - Role-based access (Admin / Manager / Employee)  
 - Attendance, salary, and leave management  
-- Authentication with login, reset password, refresh token  
+- Authentication with login, password reset, refresh token  
 - Secure API with JWT  
-- Responsive UI  
+- Fully responsive design  
 
-🔗 [GitHub Repo](https://github.com/krishh21/Mern-stack-EMS-client)
+🔗 [View Project](https://github.com/krishh21/Mern-stack-EMS-client)
 
 ---
 
 ### Weather Mobile App
-A React Native application to display real-time weather updates.  
+A React Native app that provides live weather updates.  
 
 **Tech Used**: React Native, Expo, OpenWeatherMap API  
 
-**Key Features**:
-- City and location-based search  
+**Highlights**:
+- Search by city or location  
 - Real-time temperature and humidity  
-- Mobile-first, clean design  
+- Clean, mobile-first design  
 
-🔗 [GitHub Repo](https://github.com/krishh21/weather-app)
+🔗 [View Project](https://github.com/krishh21/weather-app)
 
 ---
 
 ## Languages Used
 
-- JavaScript (Intermediate)  
-- Python (Basic)  
-- Java (Basic)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh21&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
@@ -70,7 +71,7 @@ A React Native application to display real-time weather updates.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishh21&show_icons=true&theme=tokyonight" alt="Krish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishh21&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
