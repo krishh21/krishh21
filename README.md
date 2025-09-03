@@ -1,6 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Krishna Yadav</h1>
-<h3 align="center">A passionate Full Stack Developer and Tech Enthusiast from India</h3>
+<h1 align="center">Hi, I'm Krishna Yadav</h1>
+<h3 align="center">Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishh21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -8,69 +7,67 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🌱 I’m currently learning **MERN Stack, Firebase, REST APIs, and DSA**
-- 🔭 I’m working on exciting projects like:
-  - 🧠 A **Quiz App** with Timer, Leaderboard, and Analytics  
-  - 🖼️ An **AI-Powered Image Caption Generator** using Streamlit with dark mode and smart captioning  
-  - 🌦️ A **Weather Mobile App** with live temperature, humidity, and location support  
-  - 🧑‍💼 A full-featured **MERN Stack Employee Management System (EMS)**
+- Currently learning **MERN Stack, Firebase, REST APIs, and DSA**  
+- I enjoy building projects that combine functionality with clean UI/UX  
+- Recent work includes:
+  - A **Quiz App** with timer, leaderboard, and analytics  
+  - An **AI-powered Image Caption Generator** using Streamlit  
+  - A **Weather Mobile App** with live temperature, humidity, and geolocation  
+  - A full-featured **Employee Management System (EMS)** with authentication and role-based access  
 
 ---
 
-## 🔥 Projects
+## Featured Projects
 
-### 🧑‍💼 MERN Stack Employee Management System (EMS)
-> A complete employee management platform with role-based access, authentication, and dashboards.
+### Employee Management System (EMS)
+A complete MERN application for managing employees, teams, and workflows.  
 
 **Tech Used**: React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS  
-**Features**:
-- Role-based system (Admin / Manager / Employee)
-- Attendance, salary, leave tracking
-- Authentication with login, password reset, refresh token
-- Secure API with JWT
-- Fully responsive UI
 
-🔗 [View Project](https://github.com/krishh21/Mern-stack-EMS-client)
+**Key Features**:
+- Role-based access (Admin / Manager / Employee)  
+- Attendance, salary, and leave management  
+- Authentication with login, reset password, refresh token  
+- Secure API with JWT  
+- Responsive UI  
 
----
-
-### 🌦️ Weather Mobile App
-> A mobile-first weather app that displays real-time data using city or geolocation.
-
-**Tech Used**: React Native , Expo , OpenWeatherMap API  
-**Features**:
-- Live temperature and humidity
-- Location-based weather
-- Clean UI, mobile-ready
-
-🔗 [View Project](https://github.com/krishh21/weather-app)
+🔗 [GitHub Repo](https://github.com/krishh21/Mern-stack-EMS-client)
 
 ---
 
-## 🛠️ Tech Stack
+### Weather Mobile App
+A React Native application to display real-time weather updates.  
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Tech Used**: React Native, Expo, OpenWeatherMap API  
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Key Features**:
+- City and location-based search  
+- Real-time temperature and humidity  
+- Mobile-first, clean design  
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🔗 [GitHub Repo](https://github.com/krishh21/weather-app)
 
 ---
 
-## 📈 GitHub Stats
+## Languages Used
+
+- JavaScript (Intermediate)  
+- Python (Basic)  
+- Java (Basic)  
+
+---
+
+## Tech Stack
+
+**Frontend**: HTML5, CSS3, JavaScript, React.js, React Native, Tailwind CSS  
+**Backend & Database**: Node.js, Express.js, MongoDB, Firebase  
+**Tools & Platforms**: Git, GitHub, VS Code, Expo, REST APIs  
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishh21&show_icons=true&theme=tokyonight" alt="Krish's GitHub Stats" />
@@ -80,10 +77,9 @@
   <img src="https://streak-stats.demolab.com/?user=krishh21&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="mailto:krishna1052004@gmail.com" target="_blank">
@@ -93,13 +89,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/itskrish24" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
   <a href="https://my-portfolio-krishh21s-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
----
-
-
